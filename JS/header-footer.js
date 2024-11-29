@@ -6,7 +6,7 @@ const mainFooter = document.querySelector('#footer-section');
 // include header
 mainHeader.innerHTML = `
 <div class="header">
-<img class="logo" src="/images/logo4.png">
+<img class="logo" src="images/logo4.png">
 <h1>My Website</h1>
 <p>A <b>responsive</b> website created by me.</p>
 </div>
@@ -18,12 +18,12 @@ mainHeader.innerHTML = `
             <div class="bar"></div>
         </div>
 <div class="nav-links" id="nav-links">
-<a href="index.html" class="active"><img src="/images/home-icon1.png"></a>
+<a href="index.html" class="active"><img src="images/home-icon1.png"></a>
 <a href="about-us.html">About</a>
 <a href="products.html">Products</a>
 <a href="services.html">Srvices</a>
 <a href="#">Contact Us</a>
-<a href="#" class="right"><img src="/images/shopping-cart-icon.png" ></a>
+<a href="#" class="right"><img src="images/shopping-cart-icon.png" ></a>
 <div>
 </nav>
 `;
